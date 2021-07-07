@@ -1,0 +1,2 @@
+1. Why we named first html page as index.html?
+  A: By defalut, most servers retrun index.html as the hoem page
