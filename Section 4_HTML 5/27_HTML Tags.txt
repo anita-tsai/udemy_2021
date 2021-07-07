@@ -1,0 +1,17 @@
+1. Tags
+- <html>
+- <head>
+- <title>
+- <body>
+
+- Headings (h1, h2, h3, h4, h5, h6)
+- Paragraph <p>
+- Bold <strong>, italic <em>  => <b>, <i>
+- Ordered list <ol>, Unordered list <ul>, List item<li>
+- Break <br>, Horizontal rule <hr>
+- Image <img> and Attributes: src, width, height
+- Anchor <a href="">
+
+2. 
+<h1>  -> it's a tag
+<h1>123</h1> -> it's a element
