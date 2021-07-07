@@ -1,0 +1,45 @@
+Exercise: Meet The Community
+
+Before we get started, 
+let's do a quick exercise that won't take you more than 5 minutes. 
+
+#1 Please introduce yourself in the community Discord group 
+in the #introductions channel to get familiar with how it works! 
+Quickly share who you are, where you are from, 
+and why you chose to do this course. 
+Doing this course yourself is completely fine, 
+but it is always good to have a community of others, similar to you, 
+helping you when you need motivation, and sharing in the joy when you succeed.
+
+#2 Go to the #programming-buddies and try to find a buddy 
+who is starting the course today just like you! 
+You will be keeping each other accountable throughout the course 
+and motivating each other to finish. 
+I know it may sound silly, but this is the biggest factor in 
+increasing your chances of completing the course. 
+Who knows, maybe you will find life long friends/coworkers this way. 
+
+#3 (Optional) One of our students has made a video walkthrough for you 
+of the community here if you want to watch and learn more about how everything works.
+https://www.youtube.com/watch?v=TVI_MBoCOak
+
+
+Some of the channels available for you to join are:
+#js - For all questions javascript
+#dev-resources - Myself and others share interesting articles and tools we find. Great way to stay up to date in the industry
+#alumni - Ask graduates of this course questions
+#womenintech - For the female coders out there
+#job-hunting - Anything related to finding a job as a developer
+#code100 - To join a community of students dedicated to code every day for 100 days. You can join anytime.
+
+....and many many more!
+
+Trust me, the Discord community is an invaluable part of this course 
+(some would say, it is the best part of this course). 
+You can also follow me on twitter where I keep you updated about industry news, 
+upcoming courses, and send announcement 
+about coding challenges we run monthly: @andreineagoie
+
+PS. Udemy will be asking to leave a review throughout the course. 
+Please leave a review as it really helps out the course 
+and allows more people to discover us in this massive marketplace :)

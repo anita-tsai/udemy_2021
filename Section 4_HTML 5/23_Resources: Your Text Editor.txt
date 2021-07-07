@@ -1,0 +1,22 @@
+Resources: Your Text Editor
+
+There are a lot of text editors to chose from. 
+Some are paid, some are free. 
+For this course, you can use any text editor you would like. 
+The free options that I really enjoy using as well are:
+
+-Atom
+https://atom.io/
+-Visual Studio Code
+https://code.visualstudio.com/
+
+You can always hop on over to Discord and ask fellow students 
+what their favourite Text Editor is!
+Finally, you can have a reference for any tools and resources 
+used throughout this course in the open source document contributed 
+by one of your fellow students: 
+https://github.com/zero-to-mastery/complete-web-developer-manual
+
+We even have student generated subtitle files for those students 
+that may not speak english as their first language: 
+https://github.com/zero-to-mastery/zero-to-mastery-captions

@@ -1,0 +1,14 @@
+1. web foundations
+2. HTML5
+3. CSS3
+4. Bootstrap
+5. CSS Grid
+6. Careers
+7. Java Script
+8. Git / Github
+9. Developer enviroment
+10. NPM / NPM Scripts
+11. React
+12. Node.js
+13. Databases
+14. Production

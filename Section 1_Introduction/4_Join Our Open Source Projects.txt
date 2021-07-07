@@ -1,0 +1,30 @@
+Join Our Open Source Projects!
+
+The time is here! Many of you have been asking on Discord 
+when our group projects / open source projects will begin.
+
+Well, today is the start of something amazing 
+with our community of 400,000+ students:  
+You can now join open source projects created by our community, 
+and then work with fellow students to build the next app or startup. 
+Why would you want to do this?
+
+Working in teams with fellow students will prepare you for the job market 
+where you will be working with others using Github. 
+
+ You can expand your portfolio by adding projects you have worked on with others. 
+
+ You contribute to open source.
+
+ On your resume, you will be able to showcase 
+ that you started an open source project and self organized with your fellow students. 
+ I don't know about you, but I would hire someone who shows initiative like that :). 
+
+So how do you get started?
+
+There is a special section I have added to the course: 
+"Git + Github + Open Source Projects" 
+where I take you through a step by step video 
+on how to contribute to open source projects and build real life projects.
+
+However, I only recommend starting to contribute to open source once you get to that section. I put this quick lesson here in case someone who has a bit of experience already with development wants to get started on this right away. Otherwise, see you in that section!
