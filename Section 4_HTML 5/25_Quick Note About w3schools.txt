@@ -1,0 +1,9 @@
+Quick Note About w3schools
+
+
+w3schools is a great free resource to use when you are first starting out. 
+However, as we progress through the course, 
+I will be introducing you to an even better resource in MDN. 
+
+For now though, we are going to use w3schools 
+since it is very nice and easy to use resource when just getting started. 
