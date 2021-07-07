@@ -1,0 +1,36 @@
+1. Tags
+- <html>
+- <head>
+- <title>
+- <body>
+
+- Headings (h1, h2, h3, h4, h5, h6)
+- Paragraph <p>
+- Bold <strong>, italic <em>  => <b>, <i>
+- Ordered list <ol>, Unordered list <ul>, List item<li>
+- Break <br>, Horizontal rule <hr>
+- Image <img> and Attributes: src, width, height
+- Anchor <a href="">
+
+2. 
+<h1>  -> it's a tag
+<h1>123</h1> -> it's a element
+
+3. 
+<b> = <strong>
+<i> = <em>
+
+4. Ordered list, Unordered list, Nested list
+<ol>
+<ul>
+<li>
+
+5. Self closing Tags
+<br> break line
+<hr> Horizontal line
+
+6. Image and Attributes
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+7. Anchor tag
+<a herf=""> </a>   it's a link 
